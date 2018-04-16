@@ -30,10 +30,10 @@ main{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 #con> div:nth-child(2){
-    margin-left:-22px;
+    margin-left:-12px;
 }
 #con> div:nth-child(3){
-    margin-left:-76px;
+    margin-left:-30px;
 }
 kbd > button{
     position: absolute;
